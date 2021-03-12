@@ -1,0 +1,153 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+<style>
+body {
+    font-family: 'Lato', sans-serif;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.title-container {
+  position: relative;
+}
+
+.pre-title {
+    font-size: 16px;
+    font-weight: 600;
+    text-align: right;
+    color: rgb(119, 119, 119);
+    position:absolute;
+    /* margin: 24px 0px 0px;
+    padding: 0px; */
+}
+
+.bookTitle {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: #2d1e0d;
+    margin-top: 18px;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+.post-title {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: right;
+    font-style: italic;
+    color: rgb(119, 119, 119);
+    /* margin: 24px 0px 0px;
+    padding: 0px; */
+}
+
+.authors {
+    font-size: 13px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(119, 119, 119);
+    margin-top: 22px;
+    margin-bottom: 24px;
+    padding: 0px;
+}
+
+.sectionHeading {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    color: #333333;
+    margin-top: 24px;
+    padding: 0px;
+}
+
+.noteHeading {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    color: #333333;
+    margin-top: 20px;
+    padding: 0px;
+}
+
+.noteText {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    color: #333333;
+    margin: 2px 0px 0px;
+    padding: 0px;
+}
+
+.highlight_blue {
+    color: rgb(178, 205, 251);
+}
+
+.highlight_orange {
+    color: #ffd7ae;
+}
+
+.highlight_pink {
+    color: rgb(255, 191, 206);
+}
+
+.highlight_yellow {
+    color: rgb(247, 206, 0);
+}
+
+.notebookGraphic {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.notebookGraphic img {
+    -o-box-shadow:      0px 0px 5px #888;
+    -icab-box-shadow:   0px 0px 5px #888;
+    -khtml-box-shadow:  0px 0px 5px #888;
+    -moz-box-shadow:    0px 0px 5px #888;
+    -webkit-box-shadow: 0px 0px 5px #888;
+    box-shadow:         0px 0px 5px #888;
+    max-width: 100%;
+    height: auto;
+}
+
+hr {
+    border: 0px none;
+    height: 1px;
+    background: none repeat scroll 0% 0% rgb(221, 221, 221);
+}
+</style>
+</head>
+
+<div class='title-container'>
+<h1>
+<div class='pre-title'>Notes and highlights for</div>
+<div class='bookTitle'>The Psychology of Money</div>
+<div class='post-title'>Book by Morgan Housel</div>
+</h1>
+</div>
+<hr/>
+
+<h3 class='sectionHeading'>Introduction: The Greatest Show On Earth</h3><h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 10</div>
+  <div class='noteText'>doing well with money has a little to do with how smart you are and a lot to do with how you behave. And behavior is hard to teach, even to really smart people.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 10</div>
+
+  <div class='noteText'>Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 12</div>
+
+  <div class='noteText'>Ronald Read was patient; Richard Fuscone was greedy. That’s all it took to eclipse the massive education and experience gap between the two.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 13</div>
+
+  <div class='noteText'>Two topics impact everyone, whether you are interested in them or not: health and money.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_orange'>orange</span>) - Page 14</div>
+
+  <div class='noteText'>The more I studied and wrote about the financial crisis, the more I realized that you could understand it better through the lenses of psychology and history, not finance.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 58</div><div class='noteText'>Nassim Taleb put it this way: “Having an ‘edge’ and surviving are two different things: the first requires the second. You need to avoid ruin. At all costs.”</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 58</div><div class='noteText'>Applying the survival mindset to the real world comes down to appreciating three things.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 59</div><div class='noteText'>1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 59</div><div class='noteText'>2. Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 59</div><div class='noteText'>What’s the saying? You plan, God laughs. Financial and investment planning are critical, because they let you know whether your current actions are within the realm of reasonable. But few plans of any kind survive their first encounter with the real world.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 59</div><div class='noteText'>A plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 60</div><div class='noteText'>Many bets fail not because they were wrong, but because they were mostly right in a situation that required things to be exactly right. Room for error—often called margin of safety—is one of the most underappreciated forces in finance. It comes in many forms: A frugal budget, flexible thinking, and a loose timeline—anything that lets you live happily with a range of outcomes.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 60</div><div class='noteText'>It’s different from being conservative. Conservative is avoiding a certain level of risk. Margin of safety is raising the odds of success at a given level of risk by increasing your chances of survival. Its magic is that the higher your margin of safety, the smaller your edge needs to be to have a favorable outcome.</h3>
+<h3 class='noteHeading'>Highlight (<span class='highlight_yellow'>yellow</span>) - Page 60</div><div class='noteText'>3. A barbelled personality—optimistic about the future, but paranoid about what will prevent you from getting to the future —is vital.</h3>
+</div>
